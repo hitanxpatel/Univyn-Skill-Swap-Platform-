@@ -1,6 +1,6 @@
-#Welcome to Skill Swap Platform
-#Project Overview
-#This project is built using modern web technologies including:
+# Welcome to Skill Swap Platform
+# Project Overview
+# This project is built using modern web technologies including:
 
 Vite
 
@@ -12,7 +12,7 @@ shadcn-ui
 
 Tailwind CSS
 
-How to Edit the Code
+# How to Edit the Code
 There are multiple ways you can work with this project:
 
 1. Edit Online (Browser-Based IDE)
