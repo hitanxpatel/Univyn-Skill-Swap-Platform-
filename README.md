@@ -1,4 +1,4 @@
-# Welcome to Skill Swap Platform-
+# Welcome to Skill Swap Platform
 
 ## Project info
 
