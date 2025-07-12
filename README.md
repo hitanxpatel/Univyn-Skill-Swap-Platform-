@@ -55,7 +55,7 @@ Click the green Code button and go to the Codespaces tab.
 
 Launch a new Codespace and begin editing right away.
 
-Deployment
+# Deployment
 To publish your project:
 
 Use the built-in publishing feature of your development platform.
