@@ -1,6 +1,6 @@
-Welcome to Skill Swap Platform
-Project Overview
-This project is built using modern web technologies including:
+#Welcome to Skill Swap Platform
+#Project Overview
+#This project is built using modern web technologies including:
 
 Vite
 
